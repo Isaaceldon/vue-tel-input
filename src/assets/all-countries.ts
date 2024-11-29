@@ -145,7 +145,7 @@ const allCountries: Country[] = [
   [
     'Benin (Bénin)',
     'bj',
-    '22901',
+    '229',
   ],
   [
     'Bermuda',
